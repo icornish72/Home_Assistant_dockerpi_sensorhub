@@ -1,0 +1,7 @@
+{
+  "domain": "dockerpi",
+  "name": "DockerPI",
+  "documentation": "https://github.com/icornish72/Home_Assistant_dockerpi_sensorhub/wiki",
+  "issue_tracker": "https://github.com/icornish72/Home_Assistant_dockerpi_sensorhub/issues",
+  "codeowners": ["@icornish72"]
+}
